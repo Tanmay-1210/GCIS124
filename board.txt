@@ -1,0 +1,6 @@
+4
+oo.o
+oo.o
+.ooo
+oo.o
+
